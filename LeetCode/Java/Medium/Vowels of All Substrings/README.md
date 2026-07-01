@@ -8,7 +8,7 @@
 Math, String, Dynamic Programming, Combinatorics
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
