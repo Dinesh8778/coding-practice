@@ -1,6 +1,6 @@
 # 📝 Recyclable and Low Fat Products (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/recyclable-and-low-fat-products)
+🔗 [Problem Link](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 
