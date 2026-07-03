@@ -1,6 +1,6 @@
 # 📝 Replace Employee ID With The Unique Identifier (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 
