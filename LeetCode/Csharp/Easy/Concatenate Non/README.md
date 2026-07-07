@@ -1,4 +1,4 @@
-# 📝 Concatenate Non (LeetCode)
+# 📝 Concatenate Non-Zero Digits and Multiply by Sum I (LeetCode)
 
 🔗 [Problem Link](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i)
 
