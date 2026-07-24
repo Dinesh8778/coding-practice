@@ -81,4 +81,12 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0009-palindrome-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
